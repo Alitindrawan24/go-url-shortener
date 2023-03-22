@@ -14,7 +14,10 @@ Go URL Shortener is a very simple web application built with Go that allows user
 To get started with Go URL Shortener, you will need to have Go installed on your computer. You can download Go from the official website: https://golang.org/dl/
 
 Once you have Go installed, follow these steps:
-- Clone the repository to your local machine using git clone https://github.com/Alitindrawan24/go-url-shortener.git.
+- Clone the repository to your local machine using
+```bash
+git clone https://github.com/Alitindrawan24/go-url-shortener.git.
+```
 - Navigate to the project directory using the command line.
 - Create .env file from .env.example and setup .env with your environment configuration
 ```bash
