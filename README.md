@@ -10,6 +10,9 @@ Go URL Shortener is a very simple web application built with Go that allows user
 - Go
 - Redis
 
+## Package/Frameworks
+- Gin
+
 ## Getting Started
 To get started with Go URL Shortener, you will need to have Go installed on your computer. You can download Go from the official website: https://golang.org/dl/
 
